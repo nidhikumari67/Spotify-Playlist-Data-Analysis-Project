@@ -1,13 +1,3 @@
----truncate table SpotifyData
-
-ALTER TABLE SpotifyData
-ADD Duration INT;
-
-ALTER TABLE SpotifyData
-DROP COLUMN Duration;
-
-select *from SpotifyData
-
 --- Number of songs on Spotify for each artist in top 100 list-----
 SELECT Artist, COUNT(*) AS number_of_song
 FROM SpotifyData
