@@ -18,8 +18,10 @@ This project employs the Spotipy library to interact with the Spotify API, extra
 * Conection to a Microsoft SQL Server database is established using SQLAlchemy.
 * The data is structured into a DataFrame using pandas.
 * spotify track data is stored in a table named 'SpotifyData' within the connected SQL Server database.
+  
+### Code File [COde Link](spotify_code_file.ipynb)
 
 ### Analysis:
 After uploading the code to SQL and storing the top 100 Spotify track data, a comprehensive analysis was conducted. This involved exploring trends in track popularity over time, identifying top-performing artists or albums, and uncovering any notable correlations within the dataset.
 
-
+### Analysis File [link]()
