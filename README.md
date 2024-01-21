@@ -12,7 +12,7 @@ This project utilizes the Spotipy library for Spotify API interaction to retriev
 ### Data Retrieval from Spotify:
 * Track information is fetched from the [Spotify playlist](https://open.spotify.com/playlist/4hOKQuZbraPDIfaGbM3lKI) 
   (4hOKQuZbraPDIfaGbM3lKI)
-* Extracted information includes the track title, artist, album, release date, popularity, and the snapshot date.
+* Extracted information includes the track title, artist, album, release date, popularity, Duration,and the snapshot date.
 
 ### Database Interaction:
 
