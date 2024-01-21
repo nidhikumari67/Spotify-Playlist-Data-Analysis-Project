@@ -5,12 +5,13 @@ This project utilizes the Spotipy library for Spotify API interaction to retriev
 
 ## Key Components
 ### Spotify API Integration:
+* interface for the Spotify Web API.[Spotify document](https://spotipy.readthedocs.io/en/2.22.1/)
 * Spotipy library is employed for seamless interaction with the Spotify API.
 * The SpotifyClientCredentials class is utilized for client credential flow authentication.
-* 
+
 ### Data Retrieval from Spotify:
-* Track information is fetched from the Spotify playlist (4hOKQuZbraPDIfaGbM3lKI).
-* Track information is fetched from the [Spotify playlist](https://open.spotify.com/playlist/4hOKQuZbraPDIfaGbM3lKI) (4hOKQuZbraPDIfaGbM3lKI)
+* Track information is fetched from the [Spotify playlist](https://open.spotify.com/playlist/4hOKQuZbraPDIfaGbM3lKI) 
+  (4hOKQuZbraPDIfaGbM3lKI)
 * Extracted information includes the track title, artist, album, release date, popularity, and the snapshot date.
 
 ### Database Interaction:
